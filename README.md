@@ -4,9 +4,8 @@ This project was developed to focus on using RNNs for text classification and wo
 
 ---
 
-## Project Folder Structure
+# Project Folder Structure
 
-```
 ├── educational_dataset.csv
 ├── generate_word.py
 ├── inference.py
@@ -16,22 +15,24 @@ This project was developed to focus on using RNNs for text classification and wo
 ├── text_generation_preprocess.py
 ├── train_rnn.py
 ├── train_text_generator.py
+
 ---
 
-## Task 1: Text Classification with RNN (Mandatory)
+# Task 1: Text Classification with RNN (Mandatory)
 
-### Objective
+# Objective
 Classify short educational texts into one of the following categories:
 - Math
 - Science
 - History
 - English
 
-### How to Run
-```bash
+# How to Run
+
 python preprocess.py
 python train_rnn.py
 python inference.py
+
 ```
 
 ### Sample Input
