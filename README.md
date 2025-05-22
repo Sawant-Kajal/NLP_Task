@@ -15,7 +15,7 @@ This project was developed to focus on using RNNs for text classification and wo
 ├── text_generation_preprocess.py
 ├── train_rnn.py
 ├── train_text_generator.py
----
+
 ```
 ## Task 1: Text Classification with RNN (Mandatory)
 
