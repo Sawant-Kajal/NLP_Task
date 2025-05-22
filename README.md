@@ -2,10 +2,10 @@
 
 This project was developed to focus on using RNNs for text classification and word generation.
 
----
 
 ## Project Folder Structure
 
+```
 ├── educational_dataset.csv
 ├── generate_word.py
 ├── inference.py
@@ -16,7 +16,7 @@ This project was developed to focus on using RNNs for text classification and wo
 ├── train_rnn.py
 ├── train_text_generator.py
 ---
-
+```
 ## Task 1: Text Classification with RNN (Mandatory)
 
 ### Objective
@@ -32,6 +32,7 @@ python preprocess.py
 python train_rnn.py
 python inference.py
 ```
+
 
 ### Sample Input
 > "As an academic discipline, it analyses and interprets evidence to construct narratives about what happened and explain why it happened."
